@@ -1,7 +1,6 @@
 {
  "version": 1,
  "articles": [
-  Commit changes.
   {
    "id": "2026-10-mercury-retro-scorpio",
    "headerTitle": "Retro Etkileri",
@@ -14,7 +13,7 @@
    "blocks": [
     {
      "type": "lead",
-     "text": "Son günlerde eski bir mesajı tekrar okuyup “Acaba bunu neden böyle yazdı?” diye düşündüyseniz, Akrep’teki Merkür retrosunun havasına girmiş olabilirsiniz!"
+     "text": " Test diye düşündüyseniz, Akrep’teki Merkür retrosunun havasına girmiş olabilirsiniz!"
     },
     {
      "type": "paragraph",
