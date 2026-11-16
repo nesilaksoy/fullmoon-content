@@ -1,7 +1,6 @@
 {
  "version": 1,
  "articles": [
-
   {
   "id": "2026-11-dolunay-ikizler",
   "headerTitle": "Dolunay Etkileri",
@@ -18,9 +17,7 @@
     { "type": "ritual", "title": "1. Bir mektup yaz", "text": "Kendine kısa bir not yaz." },
     { "type": "note", "text": "Bu yazıdaki yorumlar geneldir." }
   ]
-}
-  ,
-  
+}, 
   {
    "id": "2026-10-mercury-retro-scorpio",
    "headerTitle": "Retro Etkileri",
