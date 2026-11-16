@@ -1,6 +1,25 @@
 {
  "version": 1,
  "articles": [
+
+  {
+  "id": "2026-11-dolunay-ikizler",
+  "headerTitle": "Dolunay Etkileri",
+  "title": "İkizler Dolunayı ve Ritüelleri",
+  "subtitle": "24 Kasım 2026 İkizler Dolunayı",
+  "date": "2026-11-24",
+  "sign": 2,
+  "image": null,
+  "lang": "tr",
+  "blocks": [
+    { "type": "lead", "text": "Bu dolunay merakı ve konuşma isteğini artırıyor." },
+    { "type": "heading", "text": "Bu Dönem Neler Hissettirebilir?" },
+    { "type": "bullets", "items": ["Yarım kalan konuşmalar", "Yeni fikirler"] },
+    { "type": "ritual", "title": "1. Bir mektup yaz", "text": "Kendine kısa bir not yaz." },
+    { "type": "note", "text": "Bu yazıdaki yorumlar geneldir." }
+  ]
+},
+  
   {
    "id": "2026-10-mercury-retro-scorpio",
    "headerTitle": "Retro Etkileri",
@@ -13,7 +32,7 @@
    "blocks": [
     {
      "type": "lead",
-     "text": " Test diye düşündüyseniz, Akrep’teki Merkür retrosunun havasına girmiş olabilirsiniz!"
+     "text": " Son günlerde eski bir mesajı tekrar okuyup “Acaba bunu neden böyle yazdı?” diye düşündüyseniz, Akrep’teki Merkür retrosunun havasına girmiş olabilirsiniz!"
     },
     {
      "type": "paragraph",
