@@ -1,136 +1,393 @@
 {
- "version": 1,
- "articles": [
+  "version": 1,
+  "articles": [
     {
-  "id": "2026-11-dolunay-boğa",
-  "headerTitle": "Dolunay Etkileri",
-  "title": "Boğa Dolunayı ve Ritüelleri",
-  "subtitle": "24 Kasım 2026 Boğa Dolunayı",
-  "date": "2026-11-16",
-  "sign": 2,
-  "image": null,
-  "lang": "tr",
-  "blocks": [
-    { "type": "lead", "text": "TEst Kardeş Bu dolunay merakı ve konuşma isteğini artırıyor." },
-    { "type": "heading", "text": "Bu Dönem Neler Hissettirebilir?" },
-    { "type": "bullets", "items": ["Yarım kalan konuşmalar", "Yeni fikirler"] },
-    { "type": "ritual", "title": "1. Bir mektup yaz", "text": "Kendine kısa bir not yaz." },
-    { "type": "note", "text": "Bu yazıdaki yorumlar geneldir." }
-  ]
-},
-  {
-  "id": "2026-11-dolunay-ikizler",
-  "headerTitle": "Dolunay Etkileri",
-  "title": "İkizler Dolunayı ve Ritüelleri",
-  "subtitle": "24 Kasım 2026 İkizler Dolunayı",
-  "date": "2026-11-16",
-  "sign": 2,
-  "image": null,
-  "lang": "tr",
-  "blocks": [
-    { "type": "lead", "text": "Bu dolunay merakı ve konuşma isteğini artırıyor." },
-    { "type": "heading", "text": "Bu Dönem Neler Hissettirebilir?" },
-    { "type": "bullets", "items": ["Yarım kalan konuşmalar", "Yeni fikirler"] },
-    { "type": "ritual", "title": "1. Bir mektup yaz", "text": "Kendine kısa bir not yaz." },
-    { "type": "note", "text": "Bu yazıdaki yorumlar geneldir." }
-  ]
-}, 
-  {
-   "id": "2026-10-mercury-retro-scorpio",
-   "headerTitle": "Retro Etkileri",
-   "title": "Merkür Retrosunun Akrep Burcundaki Etkileri ve Ritüelleri",
-   "subtitle": "Akrep burcundaki Merkür retrosu (24 Ekim – 13 Kasım 2026)",
-   "date": "2026-10-24",
-   "sign": 7,
-   "image": null,
-   "lang": "tr",
-   "blocks": [
-    {
-     "type": "lead",
-     "text": " Son günlerde eski bir mesajı tekrar okuyup “Acaba bunu neden böyle yazdı?” diye düşündüyseniz, Akrep’teki Merkür retrosunun havasına girmiş olabilirsiniz!"
+      "id": "2026-11-uranus-retro-gemini",
+      "headerTitle": "Retro Etkileri",
+      "title": "Uranüs Retrosunun İkizler Burcundaki Etkileri ve Ritüelleri",
+      "subtitle": "İkizler burcundaki Uranüs retrosu (10 Eylül 2026 – 8 Şubat 2027)",
+      "date": "2026-11-21",
+      "sign": 2,
+      "image": null,
+      "lang": "tr",
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Telefonunuzdaki uygulamaları, takip ettiğiniz hesapları ya da her gün tekrarladığınız rutinleri “Bunlar bana hâlâ iyi geliyor mu?” diye sorgulamaya başladıysanız, İkizler’deki Uranüs retrosunun etkisinde olabilirsiniz!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Astrolojide Uranüs değişim, özgürlük, sürprizler ve yenilikle ilişkilendirilir. İkizler ise iletişimin, merakın, öğrenmenin ve bilgi akışının burcudur. Uranüs’ün İkizler’e geçişi astroloji dünyasında “düşünme ve iletişim biçimlerimizin değiştiği” bir dönem olarak yorumlanıyor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uranüs 10 Eylül’de İkizler burcunda geri harekete başladı ve 8 Şubat 2027’ye kadar bu harekete devam edecek. Yani bu retro yeni yılın ilk haftalarına kadar bizimle."
+        },
+        {
+          "type": "heading",
+          "text": "Bu Retro Neler Hissettirebilir?"
+        },
+        {
+          "type": "lead",
+          "text": "Uranüs genellikle ani değişimlerle anılır, ama retro dönemlerinde bu değişimler daha çok içeride, düşüncelerde başlar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Astroloji yorumlarına göre bu dönem, bilgiyi nasıl tükettiğinizi, kiminle ve nasıl iletişim kurduğunuzu ve neyi öğrenmek istediğinizi yeniden düşünmek için bir fırsat sunabilir. Dışarıdan büyük bir şey olmasa bile, içeride “Artık farklı bir şey istiyorum” hissi büyüyebilir."
+        },
+        {
+          "type": "subheading",
+          "text": "Aklınızdan şunlar geçebilir:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "“Bu kadar bildirime gerçekten ihtiyacım var mı?”",
+            "“Hep merak ettiğim ama başlamadığım bir konu var mı?”",
+            "“Bazı konuşmalarda neden hep aynı yere dönüyoruz?”",
+            "“Farklı bir bakış açısını denesem ne olur?”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bu dönemde fikirleriniz sık sık değişiyor gibi hissedebilirsiniz. Bu bir kararsızlık değil, belki de zihninizin yeni bir düzene geçiş hazırlığıdır. İkizler’in meraklı doğası burada size yardımcı olabilir."
+        },
+        {
+          "type": "heading",
+          "text": "Retro Havasına Uygun Dört Mini Ritüel"
+        },
+        {
+          "type": "lead",
+          "text": "Uranüs sürprizleri sever; bu ritüeller de rutininize küçük ama taze dokunuşlar katmak için."
+        },
+        {
+          "type": "ritual",
+          "title": "1. Bildirim temizliği",
+          "text": "Telefonunuzdaki bildirimlere göz atın ve size gerçekten değer katmayanları kapatın. Zihninizde ne kadar yer açıldığına şaşırabilirsiniz."
+        },
+        {
+          "type": "ritual",
+          "title": "2. Merak listesi",
+          "text": "Öğrenmek istediğiniz üç konuyu yazın: bir dil, bir hobi, bir beceri… Bu hafta birine sadece 15 dakika ayırın. İkizler küçük ve çeşitli adımları sever."
+        },
+        {
+          "type": "ritual",
+          "title": "3. Rutini bir kez boz",
+          "text": "Her gün yaptığınız bir şeyi bilerek farklı yapın: Başka bir yoldan yürüyün, yeni bir kafe deneyin, sabah kahvenizi başka bir fincanda için. Uranüs’e göre küçük değişiklikler büyük fikirlerin kapısını aralayabilir."
+        },
+        {
+          "type": "ritual",
+          "title": "4. Yarım kalan konuşma",
+          "text": "Uzun zamandır yazmak isteyip yazmadığınız birine kısa bir mesaj gönderin. Retro dönemleri, geçmişteki bağlantıları yeni bir gözle yeniden kurmak için uygun zamanlar olarak yorumlanır."
+        },
+        {
+          "type": "heading",
+          "text": "Retro Biterken…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Uranüs 8 Şubat 2027’de ileri harekete dönüyor. Bu süreçte fark ettiğiniz değişim isteklerini yeni yılda adım adım hayata geçirebilirsiniz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Değişim her zaman büyük ve ani olmak zorunda değil; bazen tek bir alışkanlığı değiştirmek, yeni bir sayfanın ilk satırı olabilir."
+        },
+        {
+          "type": "note",
+          "text": "Bu yazıdaki yorumlar genel astroloji yorumlarıdır; kendi doğum haritanızda Uranüs’ün etkilediği alan farklılık gösterebilir. Merakınızı canlı tutun ve sürprizlere biraz yer bırakın."
+        }
+      ]
     },
     {
-     "type": "paragraph",
-     "text": "Astrolojiye göre bu dönem, üstü kapalı konuları kurcalama, eski konuşmaları hatırlama ve “Ben aslında bu konuda ne hissediyorum?” diye sorma isteğini artırabilir."
+      "id": "2026-11-neptune-retro-aries",
+      "headerTitle": "Retro Etkileri",
+      "title": "Neptün Retrosunun Koç Burcundaki Etkileri ve Ritüelleri",
+      "subtitle": "Koç burcundaki Neptün retrosu (7 Temmuz – 13 Aralık 2026)",
+      "date": "2026-11-19",
+      "sign": 0,
+      "image": null,
+      "lang": "tr",
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Uzun zamandır kurduğunuz bir hayale bakıp “Bu gerçekten benim istediğim şey mi?” diye düşündüyseniz, Koç’taki Neptün retrosunun havasını yakalamış olabilirsiniz!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Astrolojide Neptün hayaller, sezgiler, ilham ve bazen de sis perdesiyle ilişkilendirilir. Koç ise isteklerini açıkça söyleyen, kendini ortaya koyan bir burç. Bu ikili, hayallerinizi daha cesur ama aynı zamanda daha gerçekçi bir gözle görmeye davet edebilir."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neptün 7 Temmuz’da Koç burcunda geri harekete başladı ve 13 Aralık’ta yeniden ileri yönde ilerlemeye başlayacak. Neptün çok yavaş hareket eden bir gezegen olduğu için bu dönemin etkisi genellikle günlük olaylardan çok iç dünyada hissedilir."
+        },
+        {
+          "type": "heading",
+          "text": "Bu Retro Neler Hissettirebilir?"
+        },
+        {
+          "type": "lead",
+          "text": "Neptün retroları genellikle pembe gözlüklerin biraz kenara kaydığı dönemler olarak yorumlanır."
+        },
+        {
+          "type": "paragraph",
+          "text": "Astroloji yorumlarına göre bu süreçte kendinize dair kurduğunuz hikâyeleri, idealize ettiğiniz kişileri ya da “bir gün” diye ertelediğiniz hayalleri yeniden değerlendirme isteği artabilir. Bu bazen biraz bulanık hissettirebilir ama sonunda daha net bir resim ortaya çıkabilir."
+        },
+        {
+          "type": "subheading",
+          "text": "Aklınızdan şunlar geçebilir:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "“Bu hayal bana mı ait, yoksa başkalarının beklentisi mi?”",
+            "“Birini ya da bir şeyi olduğundan daha parlak mı görüyorum?”",
+            "“İçimden gelen sese en son ne zaman kulak verdim?”",
+            "“Cesaret etsem, ilk adımım ne olurdu?”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bu dönemde kafanız biraz dağınık ya da kararsız hissedebilirsiniz. Endişelenmeyin; Neptün’ün sisi genellikle kalıcı değildir. Sis dağıldığında neyi gerçekten istediğinizi daha net görebilirsiniz."
+        },
+        {
+          "type": "heading",
+          "text": "Retro Havasına Uygun Dört Mini Ritüel"
+        },
+        {
+          "type": "lead",
+          "text": "Neptün sezgilerle ilgilidir; bu ritüeller de düşünmekten çok hissetmeye alan açmak için."
+        },
+        {
+          "type": "ritual",
+          "title": "1. Rüya ve his defteri",
+          "text": "Bir hafta boyunca sabahları hatırladığınız rüyaları ya da güne başlarken içinizdeki ilk hissi birkaç kelimeyle yazın. Hafta sonunda tekrar eden temalara bakın."
+        },
+        {
+          "type": "ritual",
+          "title": "2. Hayal mi, plan mı?",
+          "text": "Bir kâğıdı ikiye bölün. Bir tarafa hayallerinizi, diğer tarafa bu hayaller için atabileceğiniz somut ilk adımları yazın. Koç’un cesaretiyle Neptün’ün ilhamını aynı sayfada buluşturun."
+        },
+        {
+          "type": "ritual",
+          "title": "3. Dijital sessizlik",
+          "text": "Gün içinde 20 dakikalık bir ekransız zaman ayırın. Müzik dinleyin, yürüyüşe çıkın ya da sadece pencereden dışarı bakın. Sezgilerin konuşabilmesi için bazen biraz sessizlik gerekir."
+        },
+        {
+          "type": "ritual",
+          "title": "4. Suyla küçük bir ritüel",
+          "text": "Neptün geleneksel olarak suyla ilişkilendirilir. Akşam bir bardak suyu yudumlarken bırakmak istediğiniz bir yanılgıyı ve yerine koymak istediğiniz bir niyeti içinizden söyleyin."
+        },
+        {
+          "type": "heading",
+          "text": "Retro Biterken…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Neptün 13 Aralık’ta ileri harekete dönüyor. Bu süreçte netleşen hayallerinizi yeni yıl niyetlerinize taşıyabilirsiniz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her hayalin hemen gerçekleşmesi gerekmiyor; bazen bir hayalin size neden iyi geldiğini anlamak bile güzel bir başlangıçtır."
+        },
+        {
+          "type": "note",
+          "text": "Bu yazıdaki yorumlar genel astroloji yorumlarıdır; kendi doğum haritanızda Neptün’ün etkilediği alan farklılık gösterebilir. Hayal kurmaya devam edin, sadece arada bir ayaklarınızın yere bastığını kontrol edin."
+        }
+      ]
     },
     {
-     "type": "paragraph",
-     "text": "2026’nın son Merkür retrosu 24 Ekim’de Akrep burcunda başladı ve 13 Kasım’da sona erecek. Yani retro takipçileri için son birkaç günlük virajdayız."
+      "id": "2026-11-saturn-retro-aries",
+      "headerTitle": "Retro Etkileri",
+      "title": "Satürn Retrosunun Koç Burcundaki Etkileri ve Ritüelleri",
+      "subtitle": "Koç burcundaki Satürn retrosu (26 Temmuz – 11 Aralık 2026)",
+      "date": "2026-11-17",
+      "sign": 0,
+      "image": null,
+      "lang": "tr",
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "“Hemen başlayayım” dediğiniz bir işe bu aralar “Önce bir plan yapsam mı?” diye yaklaşıyorsanız, Koç’taki Satürn retrosunun etkisinde olabilirsiniz!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Astrolojide Satürn sorumluluk, sınırlar ve zamanla ilişkilendirilir. Koç ise başlangıçların, cesaretin ve “Ben yaparım!” enerjisinin burcudur. İkisi bir araya gelince ortaya biraz tuhaf ama öğretici bir ikili çıkıyor: Gaz pedalı ile el freni aynı arabada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Satürn 26 Temmuz’da Koç burcunda geri harekete başladı ve 11 Aralık’ta yeniden ileri yönde ilerlemeye başlayacak. Yani yaklaşık beş aylık bu dönemin son haftalarındayız."
+        },
+        {
+          "type": "heading",
+          "text": "Bu Retro Neler Hissettirebilir?"
+        },
+        {
+          "type": "lead",
+          "text": "Koç hızlı karar vermeyi sever; Satürn ise “Bu kararın arkasında durabilecek misin?” diye sorar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Astroloji yorumlarına göre bu dönem, aceleyle başlanan işleri gözden geçirmek, sağlam temeli olmayan planları güçlendirmek ve kendi sınırlarınızı yeniden çizmek için uygun bir zaman olarak görülüyor."
+        },
+        {
+          "type": "subheading",
+          "text": "Aklınızdan şunlar geçebilir:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "“Bu işe gerçekten hazır mıyım, yoksa sadece heyecan mı?”",
+            "“Hep başlıyorum ama neden bitiremiyorum?”",
+            "“Kime ‘evet’ dedim de aslında ‘hayır’ demek istiyordum?”",
+            "“Yarım kalan bir hedefimi yeniden ele alsam mı?”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bu dönemde işler beklediğinizden yavaş ilerliyorsa kendinizi suçlamayın. Satürn’ün temposu yavaş ama kalıcıdır. Belki de evren size sadece “Biraz daha sağlam yap” diyordur."
+        },
+        {
+          "type": "heading",
+          "text": "Retro Havasına Uygun Dört Mini Ritüel"
+        },
+        {
+          "type": "lead",
+          "text": "Satürn disiplin sever ama bu ritüeller için mükemmel olmanız gerekmiyor. Küçük ve düzenli adımlar yeter."
+        },
+        {
+          "type": "ritual",
+          "title": "1. Yarım kalanlar listesi",
+          "text": "Başlayıp bitiremediğiniz üç şeyi yazın. Her birinin yanına “Devam”, “Ertele” ya da “Bırak” yazın. Sadece karar vermek bile zihinde ciddi bir yer açar."
+        },
+        {
+          "type": "ritual",
+          "title": "2. Bir sınır cümlesi kur",
+          "text": "Son zamanlarda zorlandığınız bir durumu düşünün ve kendinize bir cümle hazırlayın: “Bunu bu hafta yapamam, gelecek hafta bakabilirim.” Satürn’e göre net bir “hayır”, isteksiz bir “evet”ten daha değerlidir."
+        },
+        {
+          "type": "ritual",
+          "title": "3. Beş dakikalık başlangıç",
+          "text": "Ertelediğiniz bir işe sadece beş dakika ayırın. Zamanlayıcıyı kurun ve süre bitince bırakın. Koç’un başlangıç enerjisini Satürn’ün düzeniyle buluşturmanın en kolay yolu bu olabilir."
+        },
+        {
+          "type": "ritual",
+          "title": "4. Geleceğe kısa bir not",
+          "text": "Bir kâğıda “Bir yıl sonra kendimle gurur duymak için bugün şunu yapıyorum:” diye başlayan bir cümle yazın. Notu takviminize ya da Niyet Günlüğünüze ekleyin."
+        },
+        {
+          "type": "heading",
+          "text": "Retro Biterken…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Satürn 11 Aralık’ta ileri harekete dönüyor. Bu dönemde gözden geçirdiğiniz planlar, yılın son haftalarında daha net bir hâl alabilir."
+        },
+        {
+          "type": "paragraph",
+          "text": "Retro, bir şeylere başlamamanız gerektiği anlamına gelmiyor; sadece başladığınız şeyin temelini biraz daha sağlam atmanızı hatırlatıyor."
+        },
+        {
+          "type": "note",
+          "text": "Bu yazıdaki yorumlar genel astroloji yorumlarıdır; kendi doğum haritanızda Satürn’ün hangi alanı etkilediği farklılık gösterebilir. Şimdilik el frenini biraz gevşetin, ama emniyet kemerinizi de takmayı unutmayın."
+        }
+      ]
     },
     {
-     "type": "heading",
-     "text": "Bu Retro Neler Hissettirebilir?"
-    },
-    {
-     "type": "lead",
-     "text": "Akrep’in tarzı biraz dedektiflik gibidir: ayrıntılara bakar, kolay kolay yüzeysel cevaplarla yetinmez."
-    },
-    {
-     "type": "paragraph",
-     "text": "Merkür de iletişim ve düşüncelerle ilişkilendirildiği için, bu dönemde eski bir konu yeniden açılabilir ya da bir konuşmada söylenenleri farklı gözle değerlendirebilirsiniz."
-    },
-    {
-     "type": "subheading",
-     "text": "Aklınızdan şunlar geçebilir:"
-    },
-    {
-     "type": "bullets",
-     "items": [
-      "“Bunu daha önce konuşmuştuk, konu neden yeniden açıldı?”",
-      "“Gerçekten ne demek istedi, yoksa ben mi fazla anlam yüklüyorum?”",
-      "“Bu konuda içime sinmeyen şey ne?”",
-      "“Eski bir fikre bir şans daha versem mi?”"
-     ]
-    },
-    {
-     "type": "paragraph",
-     "text": "Astroloji yorumlarında bu dönem, açık konuşmak ve geçmişten kalan meseleleri gözden geçirmek için bir fırsat gibi görülüyor. Ama küçük bir not: Her gizemli bakışın ya da geç gelen mesajın altında büyük bir sır aramak zorunda değilsiniz. Bazen mesaj sadece geç gelmiştir!"
-    },
-    {
-     "type": "heading",
-     "text": "Retro Havasına Uygun Dört Mini Ritüel"
-    },
-    {
-     "type": "lead",
-     "text": "Bunları büyük hazırlıklar gerektiren şeyler gibi düşünmeyin. Biraz durup kendinize kulak vermek yeterli."
-    },
-    {
-     "type": "ritual",
-     "title": "1. Aklındaki soruyu yaz",
-     "text": "Bir deftere son zamanlarda dönüp dolaşıp düşündüğünüz konuyu yazın. Altına da “Bildiğim şey ne, tahmin ettiğim şey ne?” diye ekleyin. Bazen düşünceleri kâğıda dökmek, kafadaki dedektif panosunu toplamaya yardımcı olur."
-    },
-    {
-     "type": "ritual",
-     "title": "2. Mesajı yaz, hemen gönderme",
-     "text": "İçinizde kalan bir şey varsa önce notlara yazın. Bir kahve molasından sonra tekrar okuyun. Hâlâ söylemek istiyorsanız, daha sakin ve net bir şekilde ifade edin. Böylece “Gönder” tuşuna duygularınız değil, siz basmış olursunuz."
-    },
-    {
-     "type": "ritual",
-     "title": "3. Dijital çekmeceyi toparla",
-     "text": "Eski ekran görüntüleri, notlar, yarım kalmış taslaklar… Telefonunuzda küçük bir temizlik yapın. Önemli fotoğraf ve dosyaları yedeklemek de retro döneminin en az gizemli ama en kullanışlı ritüeli olabilir."
-    },
-    {
-     "type": "ritual",
-     "title": "4. Bir şeyi bırak, bir niyet seç",
-     "text": "Küçük bir kâğıda artık taşımak istemediğiniz bir düşünceyi yazın. Mesela: “Her sessizliği kötüye yormak.” Yanına da yeni niyetinizi ekleyin: “Emin olmadığımda tahmin etmek yerine soracağım.” Kâğıdı saklayabilir ya da yırtıp atabilirsiniz; önemli olan, kendinize verdiğiniz küçük söz."
-    },
-    {
-     "type": "heading",
-     "text": "Retro Biterken…"
-    },
-    {
-     "type": "paragraph",
-     "text": "Merkür 13 Kasım’da ileri harekete dönüyor. O zamana kadar planları, randevuları ve önemli mesajları bir kez daha kontrol etmek iyi fikir."
-    },
-    {
-     "type": "paragraph",
-     "text": "Büyük kararları sırf retro var diye ertelemeniz gerekmiyor; sadece kendinize düşünmek ve ayrıntıları gözden geçirmek için biraz zaman tanıyın."
-    },
-    {
-     "type": "note",
-     "text": "Bu yazıdaki yorumlar genel astroloji yorumlarıdır; kendi burç haritanızda hangi konuların öne çıkacağı değişebilir. Şimdilik derin bir nefes alın, mesajınızı bir kez daha okuyun ve dedektif şapkanızı gerektiğinde çıkarın."
+      "id": "2026-10-mercury-retro-scorpio",
+      "headerTitle": "Retro Etkileri",
+      "title": "Merkür Retrosunun Akrep Burcundaki Etkileri ve Ritüelleri",
+      "subtitle": "Akrep burcundaki Merkür retrosu (24 Ekim – 13 Kasım 2026)",
+      "date": "2026-10-24",
+      "sign": 7,
+      "image": null,
+      "lang": "tr",
+      "blocks": [
+        {
+          "type": "lead",
+          "text": "Son günlerde eski bir mesajı tekrar okuyup “Acaba bunu neden böyle yazdı?” diye düşündüyseniz, Akrep’teki Merkür retrosunun havasına girmiş olabilirsiniz!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Astrolojiye göre bu dönem, üstü kapalı konuları kurcalama, eski konuşmaları hatırlama ve “Ben aslında bu konuda ne hissediyorum?” diye sorma isteğini artırabilir."
+        },
+        {
+          "type": "paragraph",
+          "text": "2026’nın son Merkür retrosu 24 Ekim’de Akrep burcunda başladı ve 13 Kasım’da sona erecek. Yani retro takipçileri için son birkaç günlük virajdayız."
+        },
+        {
+          "type": "heading",
+          "text": "Bu Retro Neler Hissettirebilir?"
+        },
+        {
+          "type": "lead",
+          "text": "Akrep’in tarzı biraz dedektiflik gibidir: ayrıntılara bakar, kolay kolay yüzeysel cevaplarla yetinmez."
+        },
+        {
+          "type": "paragraph",
+          "text": "Merkür de iletişim ve düşüncelerle ilişkilendirildiği için, bu dönemde eski bir konu yeniden açılabilir ya da bir konuşmada söylenenleri farklı gözle değerlendirebilirsiniz."
+        },
+        {
+          "type": "subheading",
+          "text": "Aklınızdan şunlar geçebilir:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "“Bunu daha önce konuşmuştuk, konu neden yeniden açıldı?”",
+            "“Gerçekten ne demek istedi, yoksa ben mi fazla anlam yüklüyorum?”",
+            "“Bu konuda içime sinmeyen şey ne?”",
+            "“Eski bir fikre bir şans daha versem mi?”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Astroloji yorumlarında bu dönem, açık konuşmak ve geçmişten kalan meseleleri gözden geçirmek için bir fırsat gibi görülüyor. Ama küçük bir not: Her gizemli bakışın ya da geç gelen mesajın altında büyük bir sır aramak zorunda değilsiniz. Bazen mesaj sadece geç gelmiştir!"
+        },
+        {
+          "type": "heading",
+          "text": "Retro Havasına Uygun Dört Mini Ritüel"
+        },
+        {
+          "type": "lead",
+          "text": "Bunları büyük hazırlıklar gerektiren şeyler gibi düşünmeyin. Biraz durup kendinize kulak vermek yeterli."
+        },
+        {
+          "type": "ritual",
+          "title": "1. Aklındaki soruyu yaz",
+          "text": "Bir deftere son zamanlarda dönüp dolaşıp düşündüğünüz konuyu yazın. Altına da “Bildiğim şey ne, tahmin ettiğim şey ne?” diye ekleyin. Bazen düşünceleri kâğıda dökmek, kafadaki dedektif panosunu toplamaya yardımcı olur."
+        },
+        {
+          "type": "ritual",
+          "title": "2. Mesajı yaz, hemen gönderme",
+          "text": "İçinizde kalan bir şey varsa önce notlara yazın. Bir kahve molasından sonra tekrar okuyun. Hâlâ söylemek istiyorsanız, daha sakin ve net bir şekilde ifade edin. Böylece “Gönder” tuşuna duygularınız değil, siz basmış olursunuz."
+        },
+        {
+          "type": "ritual",
+          "title": "3. Dijital çekmeceyi toparla",
+          "text": "Eski ekran görüntüleri, notlar, yarım kalmış taslaklar… Telefonunuzda küçük bir temizlik yapın. Önemli fotoğraf ve dosyaları yedeklemek de retro döneminin en az gizemli ama en kullanışlı ritüeli olabilir."
+        },
+        {
+          "type": "ritual",
+          "title": "4. Bir şeyi bırak, bir niyet seç",
+          "text": "Küçük bir kâğıda artık taşımak istemediğiniz bir düşünceyi yazın. Mesela: “Her sessizliği kötüye yormak.” Yanına da yeni niyetinizi ekleyin: “Emin olmadığımda tahmin etmek yerine soracağım.” Kâğıdı saklayabilir ya da yırtıp atabilirsiniz; önemli olan, kendinize verdiğiniz küçük söz."
+        },
+        {
+          "type": "heading",
+          "text": "Retro Biterken…"
+        },
+        {
+          "type": "paragraph",
+          "text": "Merkür 13 Kasım’da ileri harekete dönüyor. O zamana kadar planları, randevuları ve önemli mesajları bir kez daha kontrol etmek iyi fikir."
+        },
+        {
+          "type": "paragraph",
+          "text": "Büyük kararları sırf retro var diye ertelemeniz gerekmiyor; sadece kendinize düşünmek ve ayrıntıları gözden geçirmek için biraz zaman tanıyın."
+        },
+        {
+          "type": "note",
+          "text": "Bu yazıdaki yorumlar genel astroloji yorumlarıdır; kendi burç haritanızda hangi konuların öne çıkacağı değişebilir. Şimdilik derin bir nefes alın, mesajınızı bir kez daha okuyun ve dedektif şapkanızı gerektiğinde çıkarın."
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
